@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Diogo1006br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Diogo1006br/Diogo1006br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Meu nome é Diogo
+- 👀 Eu atualmente estou Fazendo Faculdade de engenharia de Software na Catolica de Joiville
+- 🌱 Gosto muito de jogar Jogos online
