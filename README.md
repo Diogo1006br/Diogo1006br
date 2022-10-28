@@ -1,4 +1,3 @@
-- 👋 Meu nome é Diogo , Tenho 18 anos 
 - 🔥 Eu atualmente estou Fazendo Faculdade de engenharia de Software na Catolica e as vezes tendo mexer com bases de FIVEM
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
 - 💻 Estou aprendendo PHP e tentando mexer com lua
