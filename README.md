@@ -1,6 +1,6 @@
 - 🔥 Eu atualmente estou Fazendo Faculdade de engenharia de Software na Catolica 
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
-- 💻 Estou trabalhando na Azimute e estou usando django composto por PYTHON , HMTML , CSS , JAVASCRIPT
+- 💻 Estou trabalhando na Azimute e estou usando django composto por PYTHON , HTML , CSS , JAVASCRIPT
 <div align="center">
   <a href="https://github.com/Diogo1006br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo1006br&show_icons=false&theme=monokai&include_all_commits=true&count_private=true"/>
