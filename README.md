@@ -1,11 +1,7 @@
 - 🔥 Eu atualmente estou Fazendo Faculdade de engenharia de Software na Catolica 
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
 - 💻 Estou trabalhando na Azimute e estou usando django composto por PYTHON , HTML , CSS , JAVASCRIPT
-<div align="center">
-  <a href="https://github.com/Diogo1006br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diogo1006br&show_icons=false&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo1006br&layout=compact&langs_count=7&theme=monokai"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +22,7 @@
   
 </div>
  
-![snake gif](https://github.com/Diogo1006br/Diogo1006br/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
