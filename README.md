@@ -1,6 +1,6 @@
 - 🔥 Eu atualmente estou Fazendo Faculdade de engenharia de Software na Catolica 
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
-- 💻 Estou trabalhando na Azimute e estou usando django composto por PYTHON , HTML , CSS , JAVASCRIPT
+- 💻 Estou trabalhando na Azimute e estou usando django composto por PYTHON , HTML , CSS , JAVASCRIPT , Next.js 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
