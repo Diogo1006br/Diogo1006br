@@ -1,4 +1,4 @@
-- 🔥 Eu atualmente estou Formado na Faculdade de engenharia de Software na Catolica 
+- 🔥 Eu atualmente estou Formado na Faculdade de Engenharia de Software na Catolica 
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
 - 💻 Estou trabalhando  usando django composto por PYTHON , HTML , CSS , JAVASCRIPT , Next.js 
 
