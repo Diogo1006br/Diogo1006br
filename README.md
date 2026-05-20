@@ -1,6 +1,6 @@
 - 🔥 Eu atualmente estou Formado na Faculdade de Engenharia de Software na Catolica 
 - 🥇 Gosto muito de jogar Jogos online e sou uma pessoa muito competitiva
-- 💻 Atualmente trablhando como desenvolvedor, back-end e front-end e suporte de api.
+- 💻 Atualmente trablhando como desenvolvedor, back-end e front-end 
 - Desenvolvo sites, faca um orcamento comigo. 
 
 <div style="display: inline_block"><br>
