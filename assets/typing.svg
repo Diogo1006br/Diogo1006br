@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="60" viewBox="0 0 1000 60">
+  <text x="500" y="35" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600" fill="#7aa8ff" opacity="0">
+    Fundador da Ramuski Inovation Group
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.22;0.28;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="35" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600" fill="#7aa8ff" opacity="0">
+    Engenharia de Software na Católica
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.22;0.28;1" dur="12s" begin="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="35" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600" fill="#7aa8ff" opacity="0">
+    Desenvolvedor Back-end e Front-end
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.22;0.28;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+  </text>
+  <text x="500" y="35" text-anchor="middle" font-family="Fira Code, Consolas, monospace" font-size="22" font-weight="600" fill="#7aa8ff" opacity="0">
+    Seu site do zero ao deploy
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.06;0.22;0.28;1" dur="12s" begin="9s" repeatCount="indefinite"/>
+  </text>
+</svg>
