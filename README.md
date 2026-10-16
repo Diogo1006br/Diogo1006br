@@ -15,7 +15,7 @@
 
 ## 🚀 Ramuski Inovation Group
 
-Sou o **Diogo**, estudante de Engenharia de Software na Católica e fundador da **Ramuski Inovation Group**.
+Sou o **Diogo**, formado em Engenharia de Software pela Católica, atualmente cursando Pós-Graduação em Machine Learning pela FIAP + Alura, e fundador da **Ramuski Inovation Group**.
 Criamos **sites, sistemas e soluções digitais sob medida**, com foco em desempenho, design e resultado.
 
 - 💻 Desenvolvimento back-end e front-end
