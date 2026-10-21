@@ -20,7 +20,7 @@ Criamos **sites, sistemas e soluções digitais sob medida**, com foco em desemp
 
 - 💻 Desenvolvimento back-end e front-end
 - 🌐 Sites institucionais, landing pages e sistemas web
-- 🎮 Nas horas vagas, jogos online (sou bem competitivo)
+- 🎮 Nas horas vagas gosto de jogos online e fazer academia.
 - 📩 **Quer um site? Faça um orçamento comigo!**
 
 ## 🛠️ Stack
